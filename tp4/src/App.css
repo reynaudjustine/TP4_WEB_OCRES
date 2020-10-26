@@ -1,0 +1,23 @@
+.container_pp{
+  background-color: white;
+}
+
+.button_container
+{
+  text-align: center;
+  float: right;
+  margin-right: 3%
+}
+
+button
+{
+  margin-top: 0;
+  width:110px; 
+}
+
+.jaime
+{
+  text-align: center;
+  margin-bottom: 2%;
+  margin-left: 14.5%;
+}
